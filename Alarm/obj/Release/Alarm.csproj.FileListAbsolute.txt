@@ -1,0 +1,16 @@
+F:\_C#_workspace\Alarm\Alarm\bin\Release\Alarm.exe.config
+F:\_C#_workspace\Alarm\Alarm\bin\Release\Alarm.exe.manifest
+F:\_C#_workspace\Alarm\Alarm\bin\Release\Alarm.application
+F:\_C#_workspace\Alarm\Alarm\bin\Release\Alarm.exe
+F:\_C#_workspace\Alarm\Alarm\bin\Release\Alarm.pdb
+F:\_C#_workspace\Alarm\Alarm\bin\Release\MetroFramework.Design.dll
+F:\_C#_workspace\Alarm\Alarm\bin\Release\MetroFramework.dll
+F:\_C#_workspace\Alarm\Alarm\bin\Release\MetroFramework.Fonts.dll
+F:\_C#_workspace\Alarm\Alarm\obj\Release\Alarm.Form1.resources
+F:\_C#_workspace\Alarm\Alarm\obj\Release\Alarm.Properties.Resources.resources
+F:\_C#_workspace\Alarm\Alarm\obj\Release\Alarm.csproj.GenerateResource.Cache
+F:\_C#_workspace\Alarm\Alarm\obj\Release\Alarm.exe.manifest
+F:\_C#_workspace\Alarm\Alarm\obj\Release\Alarm.application
+F:\_C#_workspace\Alarm\Alarm\obj\Release\Alarm.exe
+F:\_C#_workspace\Alarm\Alarm\obj\Release\Alarm.pdb
+F:\_C#_workspace\Alarm\Alarm\obj\Release\Alarm.csprojResolveAssemblyReference.cache

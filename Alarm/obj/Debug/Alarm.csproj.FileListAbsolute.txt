@@ -1,0 +1,15 @@
+F:\_C#_workspace\Alarm\Alarm\bin\Debug\Alarm.exe.config
+F:\_C#_workspace\Alarm\Alarm\obj\Debug\Alarm.Form1.resources
+F:\_C#_workspace\Alarm\Alarm\obj\Debug\Alarm.Properties.Resources.resources
+F:\_C#_workspace\Alarm\Alarm\obj\Debug\Alarm.csproj.GenerateResource.Cache
+F:\_C#_workspace\Alarm\Alarm\bin\Debug\Alarm.exe
+F:\_C#_workspace\Alarm\Alarm\bin\Debug\Alarm.pdb
+F:\_C#_workspace\Alarm\Alarm\obj\Debug\Alarm.exe
+F:\_C#_workspace\Alarm\Alarm\obj\Debug\Alarm.pdb
+F:\_C#_workspace\Alarm\Alarm\bin\Debug\MetroFramework.Design.dll
+F:\_C#_workspace\Alarm\Alarm\bin\Debug\MetroFramework.dll
+F:\_C#_workspace\Alarm\Alarm\bin\Debug\MetroFramework.Fonts.dll
+F:\_C#_workspace\Alarm\Alarm\bin\Debug\Alarm.exe.manifest
+F:\_C#_workspace\Alarm\Alarm\bin\Debug\Alarm.application
+F:\_C#_workspace\Alarm\Alarm\obj\Debug\Alarm.exe.manifest
+F:\_C#_workspace\Alarm\Alarm\obj\Debug\Alarm.application
